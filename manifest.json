@@ -1,0 +1,30 @@
+{
+  "name": "ETRO GLOBAL (PVT.) LTD.",
+  "short_name": "ETRO GLOBAL",
+  "description": "Empowering Enterprises Through Intelligent Innovation. ETRO Global provides scalable software solutions, ERP systems, and mobile applications.",
+  "id": "/",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a1128",
+  "theme_color": "#0a1128",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "technology"],
+  "icons": [
+    {
+      "src": "assets/logo_main.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/logo_main.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
